@@ -2,9 +2,9 @@
 
 **Panaversity Hackathon 0: Building Autonomous FTEs in 2026**
 
-[![Tier](https://img.shields.io/badge/Tier-Gold%20100%25-gold?style=for-the-badge)](https://github.com/yourusername/ai-employee)
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)](https://github.com/yourusername/ai-employee)
-[![Skills](https://img.shields.io/badge/Agent%20Skills-19-blue?style=for-the-badge)](https://github.com/yourusername/ai-employee)
+[![Tier](https://img.shields.io/badge/Tier-Gold%20100%25-gold?style=for-the-badge)](https://github.com/UsamaBarkat/ai-employee-gold-tier)
+[![Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)](https://github.com/UsamaBarkat/ai-employee-gold-tier)
+[![Skills](https://img.shields.io/badge/Agent%20Skills-19-blue?style=for-the-badge)](https://github.com/UsamaBarkat/ai-employee-gold-tier)
 
 > *"Your life and business on autopilot. Local-first, agent-driven, human-in-the-loop."*
 
@@ -168,8 +168,8 @@ This project implements a complete "Digital FTE" (Full-Time Equivalent) - an AI 
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/yourusername/ai-employee.git
-   cd ai-employee
+   git clone https://github.com/UsamaBarkat/ai-employee-gold-tier.git
+   cd ai-employee-gold-tier
    ```
 
 2. **Install Python Dependencies**
