@@ -25,7 +25,6 @@ A fully autonomous AI Employee that monitors LinkedIn 24/7, generates strategic 
 - [Setup Guide](#setup-guide)
 - [Usage](#usage)
 - [Security](#security)
-- [Demo Video](#demo-video)
 - [Documentation](#documentation)
 - [Achievements](#achievements)
 
@@ -332,19 +331,6 @@ This project implements a complete "Digital FTE" (Full-Time Equivalent) - an AI 
 
 ---
 
-## Demo Video
-
-**[Watch Demo Video](https://youtube.com/your-video-link)** (5-10 minutes)
-
-### Video Contents:
-1. System Overview (1 min)
-2. LinkedIn Watcher in Action (2 min)
-3. Human-in-the-Loop Workflow (2 min)
-4. CEO Briefing Generation (2 min)
-5. Infrastructure Demo (2 min)
-
----
-
 ## Documentation
 
 ### Core Documents
@@ -479,7 +465,6 @@ MIT License - See [LICENSE](LICENSE) file for details
 ## Quick Links
 
 - [Setup Guide](#setup-guide)
-- [Demo Video](#demo-video)
 - [Architecture](AI_Employee_Vault/ARCHITECTURE.md)
 - [Security Details](#security)
 - [Agent Skills Reference](#agent-skills-reference)
