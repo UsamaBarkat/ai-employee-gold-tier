@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c:*)",
+      "Bash(python linkedin_watcher.py:*)",
+      "Bash(findstr:*)",
+      "Bash(dir /B /O:-D:*)",
+      "Bash(mkdir:*)",
+      "Bash(python linkedin_poster.py:*)",
+      "Bash(taskkill:*)",
+      "Bash(tasklist:*)",
+      "Bash(chrome --version:*)",
+      "Bash(python email_mcp_server.py:*)",
+      "Bash(dir /B \"E:\\AI-300\\My_Hackathons_Teacher\\AI_Employee_Vault\")",
+      "Bash(dir /B \"E:\\AI-300\\My_Hackathons_Teacher\\AI_Employee_Vault\\done\")",
+      "Bash(python audit_logger.py:*)",
+      "Bash(python error_recovery.py:*)",
+      "Bash(python:*)",
+      "Bash(grep:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

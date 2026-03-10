@@ -1,0 +1,26 @@
+[
+  {
+    "id": "rem_20260310012240",
+    "title": "Reminder: Wednesday Research Meeting",
+    "reminder_time": "2026-03-12T21:00:00",
+    "target_time": "2026-03-12T22:00:00",
+    "advance_minutes": 60,
+    "priority": "normal",
+    "related_event_id": "evt_20260310012240",
+    "created_at": "2026-03-10T01:22:40.174145",
+    "status": "pending",
+    "triggered": false
+  },
+  {
+    "id": "rem_20260310012240",
+    "title": "Check LinkedIn notifications",
+    "reminder_time": "2026-03-11T10:00:00",
+    "target_time": "2026-03-11T10:00:00",
+    "advance_minutes": 0,
+    "priority": "normal",
+    "related_event_id": null,
+    "created_at": "2026-03-10T01:22:40.185396",
+    "status": "pending",
+    "triggered": false
+  }
+]

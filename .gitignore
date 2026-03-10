@@ -1,0 +1,106 @@
+# AI Employee - Git Ignore File
+
+# ==================== CREDENTIALS (NEVER COMMIT!) ====================
+.env
+*.env
+*_config.py.local
+credentials.json
+token.pickle
+
+# LinkedIn session data
+linkedin_session/
+whatsapp_session/
+
+# ==================== LOGS & DATA ====================
+*.log
+logs/
+*.json.local
+AI_Employee_Vault/logs/*.log
+AI_Employee_Vault/logs/*.json
+
+# Processed data
+*_processed.json
+linkedin_processed.json
+twitter_processed.json
+facebook_processed.json
+
+# ==================== PYTHON ====================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# ==================== IDE ====================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ==================== OBSIDIAN ====================
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache
+AI_Employee_Vault/.obsidian/workspace*
+
+# ==================== TEMPORARY FILES ====================
+*.tmp
+*.temp
+*.bak
+*.backup
+temp/
+tmp/
+
+# ==================== SYSTEM FILES ====================
+Thumbs.db
+desktop.ini
+*.lnk
+
+# ==================== SENSITIVE OUTPUTS ====================
+screenshots/
+screen_recordings/
+*.mp4
+*.mov
+*.avi
+
+# Keep demo video separate
+!demo_video.mp4
+
+# ==================== NODE ====================
+node_modules/
+package-lock.json
+yarn.lock
+
+# ==================== DATABASE ====================
+*.db
+*.sqlite
+*.sqlite3
+
+# ==================== KEEP THESE ====================
+!.env.example
+!.gitignore
+!README.md
